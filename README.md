@@ -1,4 +1,4 @@
-# tic-tac-toe game
+# TASK: tic-tac-toe game
 ## Easy: 
 Ask user for row and column and write in the two dimensional array a value "1" in the correct place.
 
